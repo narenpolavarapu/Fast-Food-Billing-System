@@ -1,5 +1,5 @@
 # Fast-Food-Billing-System
-#1. Purpose:
+1. Purpose:
 The Fast Food Billing System aims to streamline the process of ordering, billing, and managing orders in a fast-food restaurant. It provides a user-friendly interface for customers to place orders, allows managers to oversee operations, and enables chefs to view and manage incoming orders efficiently.
 
 2. Features:
